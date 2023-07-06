@@ -1,6 +1,6 @@
 # TibiaKing 8.60 Downgrade
 
-# Canary(OTBR) Mixed
+# TFS(1.5) Based
 ![image](https://github.com/thetibiaking/ttk-canary-mixed/assets/74227915/cedb2341-5a90-4da0-ba66-d8a277070ade)
 
 Este é o projeto Canary (OTBR) Mixed, uma versão modificada do projeto Canary (OTBR) baseado no OTServBR-Global. Você pode ver o histórico do repositório nas [releases](https://github.com/thetibiaking/ttk-tfs-downgrade-8.60/releases).
