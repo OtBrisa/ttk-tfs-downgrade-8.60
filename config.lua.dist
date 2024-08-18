@@ -164,7 +164,7 @@ defaultPriority = "high"
 startupDatabaseOptimization = false
 
 -- Status Server Information
-ownerName = ""
+ownerName = "Rc"
 ownerEmail = ""
 url = "https://otland.net/"
 location = "Sweden"
